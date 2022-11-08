@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://tiramisoo.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -30,14 +30,13 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/38065503/200646885-b4fd5cd7-1b3a-4111-94f4-1ffa52064f54.png)
 
 ### Built With
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@your-username](https://github.com/praty-1698)
